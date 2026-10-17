@@ -1,10 +1,11 @@
 # sobre_mi
 
-#hola soy [Emanuel castañeda]
+#hola soy:
+[Emanuel castañeda]
 
 soy aprendiz de [desarrollo de software]
 
-##mis intereses 
+##mis intereses: 
 -barberia
 -motos
 -charcos
@@ -13,5 +14,4 @@ soy aprendiz de [desarrollo de software]
 ## que espero aprender en este curso?
 el uso de git hub
 
-#titulo
-##subtitulo
+
