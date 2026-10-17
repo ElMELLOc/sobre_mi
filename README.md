@@ -1,14 +1,14 @@
 # sobre_mi
 
-#hola soy:
-[Emanuel castañeda]
+# hola soy:
+[ Emanuel castañeda ]
 
-soy aprendiz de [desarrollo de software]
+soy aprendiz de [ desarrollo de software ]
 
-##mis intereses: 
--barberia
--motos
--charcos
+## mis intereses: 
+- barberia
+- motos
+- charcos
 
 
 ## que espero aprender en este curso?
